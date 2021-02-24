@@ -1,0 +1,65 @@
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe.config
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.pdb
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csprojAssemblyReference.cache
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Form1.resources
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Properties.Resources.resources
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.GenerateResource.cache
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.CoreCompileInputs.cache
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.exe
+C:\Users\abrat\OneDrive\Desktop\SCUOLA\2\INFO\Trigger\TriggerTestAssieme\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.pdb
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe.config
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.pdb
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csprojAssemblyReference.cache
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Form1.resources
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Properties.Resources.resources
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.GenerateResource.cache
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.exe
+C:\Users\a.abrate.0764\Desktop\ESTrigger\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.pdb
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe.config
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.pdb
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csprojAssemblyReference.cache
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Form1.resources
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Properties.Resources.resources
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.GenerateResource.cache
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.exe
+C:\Users\l.castelli.1642\Desktop\ESTrigger_0602\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.pdb
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe.config
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.pdb
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csprojAssemblyReference.cache
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Form1.resources
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Properties.Resources.resources
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.GenerateResource.cache
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.exe
+D:\Scuola\INFO_2K21\Code\ESTrigger_0902\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.pdb
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe.config
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.pdb
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csprojAssemblyReference.cache
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Form1.resources
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Properties.Resources.resources
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.GenerateResource.cache
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.exe
+E:\Scuola\INFO_2K21\Code\ESFunction_1102\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.pdb
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csprojAssemblyReference.cache
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Form1.resources
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Properties.Resources.resources
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.GenerateResource.cache
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.exe
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.pdb
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe.config
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe
+D:\Scuola\INFO_2K21\Code\ESFunction_1102&Procedure\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.pdb
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe.config
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.exe
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\bin\Debug\TriggerTestAssieme.pdb
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csprojAssemblyReference.cache
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Form1.resources
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.Properties.Resources.resources
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.GenerateResource.cache
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.csproj.CoreCompileInputs.cache
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.exe
+F:\Scuola\5^ Superiore\Informatica\Teoria\StoredProcedure\StoredProcedure02\TriggerTestAssieme\obj\Debug\TriggerTestAssieme.pdb
